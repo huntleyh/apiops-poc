@@ -1,0 +1,14 @@
+apimServiceName: apim-hh-prod
+namedValues:
+  - name: environment
+    properties:
+      displayName: environment
+      value: "prod"
+  - name: api_client_id
+    properties:
+      displayName: api_client_id
+      value: "prod_client" 
+backends:
+  - name: echofunctionapp
+    properties:
+      url: "https://echo.prod.com/api"
