@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "api-client-id",
+    "secret": false,
+    "tags": [],
+    "value": "dev-client"
+  }
+}
