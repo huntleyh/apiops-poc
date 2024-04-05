@@ -14,7 +14,7 @@
 	<inbound>
 		<base />
 		<set-header name="x-trace-hdr" exists-action="append">
-			<value>true</value>
+			<value>testing</value>
 		</set-header>
 	</inbound>
 	<backend>
