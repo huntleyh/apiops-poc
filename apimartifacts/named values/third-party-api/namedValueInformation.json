@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "third-party-api",
+    "secret": false,
+    "tags": [],
+    "value": "test value"
+  }
+}
