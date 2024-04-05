@@ -12,3 +12,10 @@ backends:
   - name: echofunctionapp
     properties:
       url: "https://echo.prod.com/api"
+apis:
+  - name: echo-api
+    properties:
+      displayName: Echo API
+      description: A demonstration API that echoes back the request.
+      serviceUrl: "https://apim-hh-prod.azure-api.net/echo"
+      path: "/echo"
