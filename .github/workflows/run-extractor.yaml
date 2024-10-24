@@ -62,6 +62,7 @@ jobs:
           }
           
           $uri = "https://github.com/Azure/apiops/releases/download/${{ env.apiops_release_version }}/$extractorFileName"
+          Write-Host $uri
           $destinationFilePath = Join-Path "${{ runner.temp }}" $extractorFinalFileName
           Invoke-WebRequest -Uri "$uri" -OutFile "$destinationFilePath"
 
