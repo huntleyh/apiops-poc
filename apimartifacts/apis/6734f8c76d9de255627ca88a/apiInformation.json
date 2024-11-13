@@ -1,10 +1,10 @@
 {
   "properties": {
-    "path": "echo",
+    "path": "echo-clone",
     "apiRevision": "1",
     "authenticationSettings": {},
     "isCurrent": true,
-    "displayName": "Echo API",
+    "displayName": "Dummy Echo API",
     "protocols": [
       "https"
     ],

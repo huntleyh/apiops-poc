@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "echo-product-starter-sub",
+    "scope": "/subscriptions/0a30d5b7-4d7b-48d9-b646-58adabe26a61/resourceGroups/jb-poc/providers/Microsoft.ApiManagement/service/apim-hh-dev/products/starter",
+    "allowTracing": false,
+    "state": "active"
+  }
+}

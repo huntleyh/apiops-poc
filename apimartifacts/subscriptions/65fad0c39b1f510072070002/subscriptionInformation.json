@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/0a30d5b7-4d7b-48d9-b646-58adabe26a61/resourceGroups/jb-poc/providers/Microsoft.ApiManagement/service/apim-hh-dev/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/0a30d5b7-4d7b-48d9-b646-58adabe26a61/resourceGroups/jb-poc/providers/Microsoft.ApiManagement/service/apim-hh-dev/users/1",
+    "state": "active"
+  }
+}
