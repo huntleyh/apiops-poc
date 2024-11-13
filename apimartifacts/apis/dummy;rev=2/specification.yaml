@@ -9,10 +9,11 @@ paths:
   /testurl:
     get:
       summary: operation1
+      description: operation1
       operationId: operation1
       responses:
         '200':
-          description: 
+          description: ''
 components:
   securitySchemes:
     apiKeyHeader:

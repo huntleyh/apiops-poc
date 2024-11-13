@@ -13,8 +13,8 @@
 <policies>
 	<inbound>
 		<base />
-		<set-header name="x-trace-hdr" exists-action="append">
-			<value>testing</value>
+		<set-header name="X-Environment" exists-action="append">
+			<value>dev</value>
 		</set-header>
 	</inbound>
 	<backend>
